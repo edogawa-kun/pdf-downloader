@@ -1,2 +1,2 @@
 # pdf-downloader
-A command line utility for downloading all PDFs on a given web page. 
+A Python script for downloading all PDFs on a given web page.
